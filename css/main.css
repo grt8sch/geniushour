@@ -1,6 +1,24 @@
 html,body{
-  font-family:arial;
+  font-family: arial;
+  margin:0px;
+  padding:0px;
+  background-color: black;
+  color: white;
 }
 h1,h2,h3{
   text-align:center;
+}
+article{
+  width:100%;
+  padding:10px;
+}
+nav{
+  position:fixed;
+  left:0px;
+}
+nav > a{
+  display: block;
+  width: auto;
+  text-decoration: none;
+  color: green;
 }
