@@ -7,11 +7,13 @@ html,body{
 }
 h1,h2,h3{
   text-align:center;
+  color: #37ff37 !important;
 }
 article{
   width:100%;
   margin:0px;
   padding:0px;
+  color: #37ff37 !important;
 }
 nav{
   position:fixed;
