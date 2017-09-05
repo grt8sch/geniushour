@@ -30,3 +30,6 @@ nav > a{
 nav > a, nav > a:active, nav > a:visited{
   color: #37ff37 !important;
 }
+main{
+  padding-left:500px;
+}
