@@ -39,3 +39,6 @@ nav > a, nav > a:active, nav > a:visited{
 main{
   padding-left:120px;
 }
+#citations{
+  word-break: break-all;
+}
