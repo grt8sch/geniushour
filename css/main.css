@@ -3,7 +3,7 @@ html,body{
   margin:0px;
   padding:0px;
   background-color: black;
-  color: #37ff37;
+  color: #37ff37 !important;
 }
 h1,h2,h3{
   text-align:center;
