@@ -18,8 +18,10 @@ nav{
   left:0px;
 }
 nav > a{
-  color: #37ff37 !important;
   display: block;
   width: auto;
   text-decoration: none;
+}
+nav > a, nav > a:active, nav > a:visited{
+  color: #37ff37 !important;
 }
