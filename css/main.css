@@ -19,6 +19,7 @@ article{
   padding:0px;
   color: #37ff37 !important;
   font-size:28px;
+  min-height:100%;
 }
 header{
   height:auto;
